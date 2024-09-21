@@ -1,0 +1,37 @@
+# Ignore build directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore NuGet packages
+*.nupkg
+# Packages folder can be ignored if not committing dependencies
+**/packages/
+
+# Ignore the lock file (can be added back if you need to commit it)
+project.lock.json
+project.fragment.lock.json
+
+# Ignore JetBrains Rider IDE files
+.idea/
+*.sln.iml
+
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore Visual Studio build results
+.vscode/*
+*.dbmdl
+*.pdb
+*.opendb
+
+# Ignore other hidden system files
+.DS_Store
+*.DS_Store
+Thumbs.db
