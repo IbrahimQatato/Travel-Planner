@@ -1,4 +1,4 @@
-##Info
+## Info
 
 This is a desktop app for calculating visa free entry periods and planning travel without needing a visa into the Schengen zone. The user can enter different travel dates and calculate the remaining days they have for free entry. In addition they can use this app to find out when they can re-enter the Schengen zone. 
 
